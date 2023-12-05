@@ -1,16 +1,15 @@
-# news__app
+## News App
 
 A new Flutter project.
 
-## Getting Started
+[facebook](https://www.facebook.com/ashraf.esam.7146)
+<div>
+<img src="https://github.com/Ashraf50/NewsApp/assets/121103042/78d56f75-13b2-442b-b83d-24be0f147dbf" wiidth="100">
+<img src="https://github.com/Ashraf50/NewsApp/assets/121103042/f18b4c3c-eae7-436d-bc2f-753a26ea13e5">
+<img src="https://github.com/Ashraf50/NewsApp/assets/121103042/a4529a37-257a-44da-a7dd-5853a910dc45">
+<img src="https://github.com/Ashraf50/NewsApp/assets/121103042/1d643039-4cd2-457b-a835-3882f38bbb10">
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
